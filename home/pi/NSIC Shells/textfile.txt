@@ -1,0 +1,2 @@
+hi, i am Batman. We are going to count the number of words in this file.
+ We will be using shell scripting for the same.
